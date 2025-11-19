@@ -7,3 +7,4 @@ Notes and usage details for w7panel.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
