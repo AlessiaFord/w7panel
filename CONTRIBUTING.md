@@ -22,3 +22,4 @@ Notes and usage details for w7panel.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
